@@ -3,7 +3,7 @@
 
 ### - About Me 👨‍💻
 
-Hi there! I'm a third year student at Rutgers University studying Computer Science.
+Hi there! I'm a student at Ocean County College Studying Computer Science.
 
 ---
 
